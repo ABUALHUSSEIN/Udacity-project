@@ -2,9 +2,9 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ABUALHUSSEIN/Udacity-project/blob/main/House_Price_Prediction6.ipynb)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Model Type](https://img.shields.io/badge/Model%20Type-Regression-blueviolet)
+
+
+
 
 ---
 
@@ -21,8 +21,8 @@ This project applies supervised machine learning techniques to **predict housing
 - ✅ **Data Preprocessing**: Handled missing values, categorical encoding, and outliers.
 - 📊 **EDA**: Visualized key relationships using plots and heatmaps.
 - 🤖 **Modeling**: Trained and compared models like Linear Regression, Decision Tree, and Random Forest.
-- 🧪 **Evaluation**: Used RMSE, R², and cross-validation for model assessment.
-- 🛠️ **Feature Engineering**: Improved model performance through thoughtful transformations.
+- 🧪 **Evaluation**: Used RMSE, and R²  for model assessment.
+
 
 ---
 
